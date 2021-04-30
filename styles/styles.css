@@ -248,6 +248,18 @@ color:#060A24;
   max-width: 80%;
   height: auto;
 }
+
+iframe{
+background-color: transparent;
+
+
+}
+
+
+
+
+
+
 /* images-div */
 .img-grid-title{
   margin-left: 15%;
